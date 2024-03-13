@@ -332,11 +332,6 @@
     &quot;developerName&quot; : null,
     &quot;value&quot; : &quot;MS Word&quot;,
     &quot;autoAdv&quot; : null
-  }, {
-    &quot;name&quot; : &quot;Proposal Deck&quot;,
-    &quot;developerName&quot; : null,
-    &quot;value&quot; : &quot;MS Powerpoint&quot;,
-    &quot;autoAdv&quot; : null
   } ],
   &quot;optionSource&quot; : {
     &quot;type&quot; : &quot;&quot;,
@@ -419,5 +414,5 @@
     <type>RLM</type>
     <uniqueName>RLM_QuoteDocument_English_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>e083035e-8328-f6c5-a329-6fe6384c62fe</webComponentKey>
+    <webComponentKey>b234dd65-e9fd-f021-306e-74053d76a6d6</webComponentKey>
 </OmniScript>

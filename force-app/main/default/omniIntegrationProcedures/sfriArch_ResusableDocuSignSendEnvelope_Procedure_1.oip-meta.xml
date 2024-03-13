@@ -110,7 +110,7 @@
     &quot;elementName&quot;: &quot;ResusableDocuSignSendEnvelope&quot;
 }</customJavaScript>
     <elementTypeComponentMapping>{&quot;ElementTypeToHTMLTemplateList&quot;:[]}</elementTypeComponentMapping>
-    <isActive>false</isActive>
+    <isActive>true</isActive>
     <isIntegrationProcedure>true</isIntegrationProcedure>
     <isMetadataCacheDisabled>false</isMetadataCacheDisabled>
     <isOmniScriptEmbeddable>false</isOmniScriptEmbeddable>
@@ -412,5 +412,5 @@
     <type>sfriArch</type>
     <uniqueName>sfriArch_ResusableDocuSignSendEnvelope_Procedure_1</uniqueName>
     <versionNumber>1.0</versionNumber>
-    <webComponentKey>49700e7d-1cd7-3679-7529-74e682d731f2</webComponentKey>
+    <webComponentKey>1cb825db-765f-0c6e-8ff9-d52f81cd7af3</webComponentKey>
 </OmniIntegrationProcedure>
